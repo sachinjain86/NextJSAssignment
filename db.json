@@ -1,0 +1,117 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 89.99,
+        "category": "Electronics",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "features": [
+          "Noise Cancellation",
+          "30-hour battery life",
+          "Bluetooth 5.0"
+        ],
+        "ratings": {
+          "average": 4.5,
+          "reviews": [
+            {
+              "user": "Alice",
+              "comment": "Great sound quality!",
+              "rating": 5
+            },
+            {
+              "user": "Bob",
+              "comment": "Comfortable for long use.",
+              "rating": 4
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 699.99,
+        "category": "Electronics",
+        "description": "Latest model smartphone with advanced features.",
+        "features": [
+          "6.5-inch display",
+          "128GB storage",
+          "Triple camera system"
+        ],
+        "ratings": {
+          "average": 4.7,
+          "reviews": [
+            {
+              "user": "Charlie",
+              "comment": "Amazing camera quality!",
+              "rating": 5
+            },
+            {
+              "user": "David",
+              "comment": "Very fast and responsive.",
+              "rating": 4
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "name": "Fitness Tracker",
+        "price": 49.99,
+        "category": "Fitness",
+        "description": "Track your fitness goals with this stylish fitness tracker.",
+        "features": [
+          "Heart rate monitoring",
+          "Step tracking",
+          "Water-resistant"
+        ],
+        "ratings": {
+          "average": 4.2,
+          "reviews": [
+            {
+              "user": "Eve",
+              "comment": "Helps me stay motivated!",
+              "rating": 4
+            },
+            {
+              "user": "Frank",
+              "comment": "Good value for the price.",
+              "rating": 4
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "Coffee Maker",
+        "price": 129.99,
+        "category": "Home Appliances",
+        "description": "Brew your favorite coffee with this easy-to-use coffee maker.",
+        "features": [
+          "Programmable settings",
+          "Built-in grinder",
+          "Auto shut-off"
+        ],
+        "ratings": {
+          "average": 4.6,
+          "reviews": [
+            {
+              "user": "Grace",
+              "comment": "Makes the best coffee I've ever had!",
+              "rating": 5
+            },
+            {
+              "user": "Henry",
+              "comment": "Easy to use and clean.",
+              "rating": 4
+            },
+            {
+              "user": "Ivy",
+              "comment": "Great value for the price.",
+              "rating": 4
+            }
+          ]
+        }
+      }
+    ]
+}
